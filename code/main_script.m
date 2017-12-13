@@ -4,6 +4,7 @@ clear;
 
 run('vlfeat-0.9.20-bin/vlfeat-0.9.20/toolbox/vl_setup')
 addpath('gco-v3.0/matlab')
+addpath('functions')
 
 %% Settings
 % object classes
